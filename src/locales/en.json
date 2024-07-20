@@ -1,0 +1,86 @@
+{
+  "home": {
+    "Quote of the day": "Quote of the day",
+    "Last Read": "Last Read",
+    "Continue Read": "Continue Read",
+    "All Chapters": "All Chapters",
+    "Today": "Today",
+    "Read 5 verses": "Read 5 verses",
+    "Chapter": "Chapter {{chapter}}",
+    "Verse": "Verse {{verse}}",
+    "Good Morning": "Good Morning",
+    "Good Afternoon": "Good Afternoon",
+    "Good Evening": "Good Evening",
+    "Good Night": "Good Night",
+    "Set Daily Reminder": "Set Daily Reminder",
+    "Peace of mind": "Peace of mind",
+    "Read Full Bhagvad Geeta": "Read Full Bhagvad Gita",
+    "Progress": "Progress",
+    "Read out of": "Read {{verses}} out of 700 verses"
+  },
+  "tabs": {
+    "Bookmarks": "Bookmarks",
+    "Wallpaper": "Wallpaper",
+    "Settings": "Settings"
+  },
+  "chapter": {
+    "Chapter": "Chapter {{number}}",
+    "Complated": "{{percent}}% Complated"
+  },
+  "settings": {
+    "Language": "Language",
+    "Theme": "Theme",
+    "Hindi": "Hindi",
+    "English": "English",
+    "Dark": "Dark",
+    "Light": "Light",
+    "Preferences": "Preferences",
+    "Translation": "Translation",
+    "Commentary": "Commentary"
+  },
+  "verse": {
+    "Chapter": "Chapter {{number}}",
+    "Verse": "Verse {{number}}",
+    "Play Audio": "Play Audio",
+    "Translation": "Translation",
+    "Commentary": "Commentary",
+    "Verse is already added to bookmarks": "Verse is already added to bookmarks",
+    "Bookmark deleted successfully": "Bookmark deleted successfully",
+    "Please connect to internet": "Please connect to internet"
+  },
+  "bookmarks": {
+    "No BookMarks Yet!": "No BookMarks Yet!"
+  },
+  "wallpaper": {
+    "Wallpapers": "Wallpapers",
+    "Set Wallpaper": "Set Wallpaper"
+  },
+  "more": {
+    "Settings": "Settings",
+    "Reminder": "Reminder",
+    "Join facebook community": "Join facebook community",
+    "Follow us on Instagram": "Follow us on Instagram",
+    "Rate app": "Rate app",
+    "Share app": "Share app",
+    "Privacy Policy": "Privacy Policy",
+    "Social": "Social",
+    "Growth": "Growth",
+    "Policies": "Policies",
+    "Not set": "Not set",
+    "Profile": "Profile"
+  },
+  "onboarding": {
+    "Welcome": "Welcome",
+    "WelcomeDesc": "To provide you with a personalized experience, please select your preferred language.",
+    "StartButton": "Let's start",
+    "NameTitle": "We'd love to address you by name.",
+    "NameDesc": "Please enter your first and last name to continue.",
+    "Next": "Next",
+    "ReminderTitle": "Daily Reminder",
+    "ReminderDesc": "Enhance your daily routine with the wisdom of the Bhagavad Gita. \n\nSelect a convenient time for daily notifications to receive a daily reminder to read today verses."
+  },
+  "extra": {
+    "Bhagvad Gita": "Bhagvad Gita",
+    "Bhagvad Gita App": "Bhagvad Gita App"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "home": {
+    "Quote of the day": "आज का विचार",
+    "Last Read": "अंतिम पढ़ा",
+    "Continue Read": "पढ़ना जारी रखें",
+    "All Chapters": "सभी अध्याय",
+    "Today": "आज के लिए",
+    "Read 5 verses": "5 श्लोक पढ़ें",
+    "Chapter": "अध्याय {{chapter}}",
+    "Verse": "श्लोक {{verse}}",
+    "Good Morning": "शुभ प्रभात",
+    "Good Afternoon": "शुभ दोपहर",
+    "Good Evening": "शुभ संध्या",
+    "Good Night": "शुभ रात्रि",
+    "Set Daily Reminder": "दैनिक श्लोक पढ़ने का समय चुनें",
+    "Peace of mind": "मन की शांति",
+    "Read Full Bhagvad Geeta": "पूरी भगवत गीता पढ़ें",
+    "Progress": "प्रगति",
+    "Read out of": "अभी तक {{verses}} श्लोक पढ़े गए"
+  },
+  "tabs": {
+    "Bookmarks": "बुकमार्क",
+    "Wallpaper": "वॉलपेपर",
+    "Settings": "सेटिंग"
+  },
+  "chapter": {
+    "Chapter": "अध्याय {{number}}",
+    "Complated": "{{percent}}% पुरा हुआ"
+  },
+  "settings": {
+    "Language": "भाषा",
+    "Theme": "थीम",
+    "Hindi": "हिंदी",
+    "English": "English",
+    "Dark": "Dark",
+    "Light": "Light",
+    "Preferences": "पसंद",
+    "Translation": "अनुवाद",
+    "Commentary": "समीक्षा"
+  },
+  "verse": {
+    "Chapter": "अध्याय {{number}}",
+    "Verse": "श्लोक {{number}}",
+    "Play Audio": "ऑडियो चलाएं",
+    "Translation": "अनुवाद",
+    "Commentary": "समीक्षा",
+    "Verse is already added to bookmarks": "श्लोक पहले से ही बुकमार्क में जोड़ा गया है",
+    "Bookmark deleted successfully": "बुकमार्क सफलतापूर्वक हटा दिया गया",
+    "Please connect to internet": "कृपया इंटरनेट से जुड़ें"
+  },
+  "bookmarks": {
+    "No BookMarks Yet!": "अभी तक कोई बुकमार्क नहीं!"
+  },
+  "wallpaper": {
+    "Wallpapers": "वॉलपेपर",
+    "Set Wallpaper": "वॉलपेपर सेट करें"
+  },
+  "more": {
+    "Settings": "सेटिंग्स",
+    "Reminder": "नोटिफ़िकेशन",
+    "Join facebook community": "फेसबुक समुदाय से जुड़ें",
+    "Follow us on Instagram": "हमें इंस्टाग्राम पर फ़ॉलो करें",
+    "Rate app": "रेट ऐप",
+    "Share app": "शेयर ऐप",
+    "Privacy Policy": "गोपनीयता नीति",
+    "Social": "सामाजिक",
+    "Growth": "विकास",
+    "Policies": "सामाजिक नीति",
+    "Not set": "सेट नहीं",
+    "Profile": "प्रोफ़ाइल"
+  },
+  "onboarding": {
+    "Welcome": "स्वागत",
+    "WelcomeDesc": "आपको वैयक्तिकृत अनुभव प्रदान करने के लिए, कृपया अपनी पसंदीदा भाषा चुनें।",
+    "StartButton": "शुरू करते हैं",
+    "NameTitle": "हमें आपको नाम से संबोधित करना अच्छा लगेगा।",
+    "NameDesc": "जारी रखने के लिए कृपया अपना पहला और अंतिम नाम दर्ज करें।",
+    "Next": "अगला",
+    "ReminderTitle": "दैनिक नोटिफ़िकेशन",
+    "ReminderDesc": "भगवत गीता के ज्ञान से अपनी दिनचर्या को बेहतर बनाएं। \n\nदैनिक श्लोक को पढ़ने के लिए एक सुविधाजनक समय चुनें।"
+  },
+  "extra": {
+    "Bhagvad Gita": "भगवत गीता",
+    "Bhagvad Gita App": "भगवत गीता एप"
+  }
+}
